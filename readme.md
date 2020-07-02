@@ -1,3 +1,4 @@
+```
 LCD Pin : Raspberry Pi
 VSS * GND
 VDD * 5.0V
@@ -15,6 +16,7 @@ D6  : GPIO13
 D7  : GPIO19
 A   * 5.0V
 K   * GND
+```
 
 ```
 sudo apt-get update
