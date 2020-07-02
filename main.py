@@ -19,5 +19,5 @@ while(1):
     current_date = current_date.strftime('%m-%d')
     current_time = current_date.strftime('%H:%M:%S')
     lcd.clear()
-    lcd.message(current_date ' ' + current_time)
+    lcd.message(current_date + ' ' + current_time)
     time.sleep(1)
